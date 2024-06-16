@@ -2,7 +2,7 @@
   "Name": "Koa",
   "Author": "Puddnova",
   "Version": "1.0.0",
-  "Description": "One or two sentences about the mod",
+  "Description": "Adds a cute cavapoo as an option for a pet.",
   "UniqueID": "Puddnova.Koa",
   "EntryDll": "Koa.dll",
   "MinimumApiVersion": "4.0.8",
