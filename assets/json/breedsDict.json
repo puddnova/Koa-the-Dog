@@ -1,0 +1,14 @@
+{
+  "Dog": [
+    {
+      "Id": "Koa.Dog1",
+      "Texture": "Mods/Koa/Sprites/Dog_1",
+      "IconTexture": "Mods/Koa/Icons/Dog_1",
+      "IconSourceRect": { "x": 0, "y":0, "width":16, "height":16 },
+      "BarkOverride": null,
+      "CanBeChosenAtStart": true,
+      "CanBeAdoptedFromMarnie": true,
+      "AdoptionPrice": 300
+    }
+  ]
+}

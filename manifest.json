@@ -1,0 +1,10 @@
+{
+  "Name": "Koa",
+  "Author": "Puddnova",
+  "Version": "1.0.0",
+  "Description": "One or two sentences about the mod",
+  "UniqueID": "Puddnova.Koa",
+  "EntryDll": "Koa.dll",
+  "MinimumApiVersion": "4.0.8",
+  "UpdateKeys": []
+}
